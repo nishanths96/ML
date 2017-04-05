@@ -1,5 +1,5 @@
 # ML
-Machine Learning algorithms applied to real-time datasets and measure the accuracy of the model.
+Machine Learning algorithms applied to real-world datasets and measure the accuracy of the model.
 
 Datasets used:
 1) WIKI/GOOGL dataset for predicting StockPrices. ( using LinearRegression )
